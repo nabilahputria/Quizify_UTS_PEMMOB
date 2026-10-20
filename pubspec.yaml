@@ -1,0 +1,12 @@
+flutter:
+  uses-material-design: true
+
+  # Daftarkan font kustom Anda di sini (pastikan file .ttf sudah ada di folder assets/fonts/)
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
